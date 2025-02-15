@@ -178,6 +178,36 @@ html, body {
     box-sizing: border-box; /* Ensures padding and border are included in the size calculation */
 }
 
+.staff > .staff-content > .staff-information > .staff-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.staff > .staff-content > .staff-information > .staff-position {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.staff > .staff-content > .staff-information > .staff-id {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.staff > .staff-content > .staff-information > .staff-salary {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.staff > .staff-content > .staff-information > .staff-hire {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.staff > .staff-content > .staff-information > .staff-city {
+    font-size: 12px;
+    font-weight: bold;
+}
+
 .staff > .staff-content > .staff-information > h1, h3, p {
     text-align: center;
 }
